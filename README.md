@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://discord.gg/oura"><img src="https://img.shields.io/badge/Óura-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://instagram.com/ell.hattab"><img src="https://img.shields.io/badge/@ell.hattab-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@جقء"><img src="https://img.shields.io/badge/YouTube-4mrv-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://youtube.com/@جقء"><img src="https://img.shields.io/badge/YouTube-جقء-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://elhattab.lol"><img src="https://img.shields.io/badge/elhattab.lol-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
